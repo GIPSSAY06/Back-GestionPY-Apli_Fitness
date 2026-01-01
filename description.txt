@@ -1,0 +1,11 @@
+python contribute.py -db 03 -da 17 -mc 6 -fr 80 -r https://github.com/GIPSSAY06/codeGit.git 
+
+
+
+
+db 03 dia donde empieza el comit
+
+-da 0 dias adelantados
+
+mc 6 comit
+
